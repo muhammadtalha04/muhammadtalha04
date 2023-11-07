@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: muhammadtalha04@gmail.com
+
 <!--
 **muhammadtalha04/muhammadtalha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
