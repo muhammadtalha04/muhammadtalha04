@@ -18,6 +18,8 @@ I am a Senior Software Engineer with 4+ years of working experience.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadtalha97/)](https://www.linkedin.com/in/muhammadtalha97/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m_talha04)](https://twitter.com/m_talha04)
 
+[Get My CV](https://github.com/muhammadtalha04/muhammadtalha04/blob/master/MuhammadTalha.pdf)
+
 <!--
 ---
 
